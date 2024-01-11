@@ -86,5 +86,5 @@ void _openCountryPickerDialog() => showDialog(
 
 
 ## Credits
-
+Original library home page [country-pickers](https://github.com/figengungor/country_pickers)
 Thanks goes to [country-flags](https://github.com/hjnilsson/country-flags) repo for the flag image assets.
