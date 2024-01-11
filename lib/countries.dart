@@ -375,10 +375,28 @@ final List<Country> countryList = [
   ),
   Country(
     isoCode: "DO",
+    phoneCode: "1",
+    name: "Dominican Republic",
+    iso3Code: "DOM",
+  ),/*
+  Country(
+    isoCode: "DO",
     phoneCode: "1-849",
     name: "Dominican Republic",
     iso3Code: "DOM",
   ),
+  Country(
+    isoCode: "DO",
+    phoneCode: "1-829",
+    name: "Dominican Republic",
+    iso3Code: "DOM",
+  ),
+  Country(
+    isoCode: "DO",
+    phoneCode: "1-809",
+    name: "Dominican Republic",
+    iso3Code: "DOM",
+  ),*/
   Country(
     isoCode: "EC",
     phoneCode: "593",
