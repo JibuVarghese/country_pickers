@@ -1,3 +1,7 @@
+## [3.0.0] - 01/11/2024
+
+* Dominican Republic area code removed from phone code for better clarity
+
 ## [2.0.0] - 03/13/2021
 
 * Null-safety is added
